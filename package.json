@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverEkberg/advent-of-code-2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverEkberg/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/OliverEkberg/advent-of-code-2019#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
